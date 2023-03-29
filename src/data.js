@@ -1,0 +1,88 @@
+export const data={
+     "course": [
+          {
+               "heading": "STOCK INVESTMENT LIVE MASTER COURSE",
+               "date": "15-01-2023",
+               "time": "07:00 PM",
+               "body": "Learn everything you need to know about the basics of investing, including how to create a diversified portfolio, how to analyze potential investments and how to manage risk",
+               "progress": "78",
+          },
+          {
+               "heading": "EQUITY INTRADAY LIVE TRADING COURSE",
+               "date": "15-01-2023",
+               "time": "07:00 PM",
+               "body": "Learn everything you need to know about the basics of investing, including how to create a diversified portfolio, how to analyze potential investments and how to manage risk",
+               "progress": "59",
+          },
+          {
+               "heading": "FUTURE & OPTIONS LIVE TRADING COURSE",
+               "date": "15-01-2023",
+               "time": "07:00 PM",
+               "body": "Learn everything you need to know about the basics of investing, including how to create a diversified portfolio, how to analyze potential investments and how to manage risk",
+               "progress": "80",
+          },
+          {
+               "heading": "BECOME A MUTUAL FUND DISTRIBUTOR",
+               "date": "15-01-2023",
+               "time": "07:00 PM",
+               "body": "Learn everything you need to know about the basics of investing, including how to create a diversified portfolio, how to analyze potential investments and how to manage risk",
+               "progress": "55",
+          },
+          {
+               "heading": "BECOME A EQUITY RESEARCH ANALYST",
+               "date": "15-01-2023",
+               "time": "07:00 PM",
+               "body": "Learn everything you need to know about the basics of investing, including how to create a diversified portfolio, how to analyze potential investments and how to manage risk",
+               "progress": "45",
+          },
+          {
+               "heading": "LEARN FOREX TRADING",
+               "date": "15-01-2023",
+               "time": "07:00 PM",
+               "body": "Learn everything you need to know about the basics of investing, including how to create a diversified portfolio, how to analyze potential investments and how to manage risk",
+               "progress": "52",
+          },
+          {
+               "heading": "LEARN ALGO BASED TRADING",
+               "date": "15-01-2023",
+               "time": "07:00 PM",
+               "body": "Learn everything you need to know about the basics of investing, including how to create a diversified portfolio, how to analyze potential investments and how to manage risk",
+               "progress": "21",
+          },
+          {
+               "heading": "LEARN CRYPTOCURRENCY TRADING",
+               "date": "15-01-2023",
+               "time": "07:00 PM",
+               "body": "Learn everything you need to know about the basics of investing, including how to create a diversified portfolio, how to analyze potential investments and how to manage risk",
+               "progress": "35",
+          },
+          {
+               "heading": "lEARN BLOCKCHAIN TECHNOLOGY",
+               "date": "15-01-2023",
+               "time": "07:00 PM",
+               "body": "Learn everything you need to know about the basics of investing, including how to create a diversified portfolio, how to analyze potential investments and how to manage risk",
+               "progress": "39",
+          },
+          {
+               "heading": "STOCK MARKET & FINANCE (STUDENTS)",
+               "date": "15-01-2023",
+               "time": "07:00 PM",
+               "body": "Learn everything you need to know about the basics of investing, including how to create a diversified portfolio, how to analyze potential investments and how to manage risk",
+               "progress": "27",
+          },
+          {
+               "heading": "FINANCIAL WORKSHOP (FOR STUDENTS)",
+               "date": "15-01-2023",
+               "time": "07:00 PM",
+               "body": "Learn everything you need to know about the basics of investing, including how to create a diversified portfolio, how to analyze potential investments and how to manage risk",
+               "progress": "22",
+          },
+          {
+               "heading": "STOCK MARKET MASTER COURSE",
+               "date": "15-01-2023",
+               "time": "07:00 PM",
+               "body": "Learn everything you need to know about the basics of investing, including how to create a diversified portfolio, how to analyze potential investments and how to manage risk",
+               "progress": "35",
+          },
+     ]
+};

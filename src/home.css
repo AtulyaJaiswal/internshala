@@ -1,0 +1,184 @@
+.home{
+     display: flex;
+     flex-direction: column;
+}
+
+.home_top{
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+}
+.home_top > div{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     box-shadow: 0rem 0.09rem rgba(128, 128, 128, 0.422);
+}
+.home_top > div > input{
+     width: 20rem;
+     border: none transparent;
+     outline: none;
+     padding: 0.5rem 1rem;
+}
+.home_top > button{
+     border: none;
+     cursor: pointer;
+     color: white;
+     transition: all 0.5s;
+     background-color: green;
+     font: 500 1vmax "Roboto";
+     padding: 0.5vmax 2vmax;
+     border-radius: 0.3rem;
+     outline: none;
+}
+.home_mid{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.home_mid > div{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     padding: 0 5.5rem;
+}
+
+.p1{
+     font-size: 2rem;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+     margin-bottom: 1rem;   
+}
+.p2{
+     font-size: 3rem;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+.home_mid_2{
+     padding: 1rem;
+}
+.p3{
+     font-size: 0.6rem;
+     color: gray;
+}
+.home_mid_3{
+     display: flex;
+     width: 100%;
+     justify-content: flex-start;
+}
+.btn1{
+     border: none;
+     cursor: pointer;
+     color: white;
+     transition: all 0.5s;
+     background-color: green;
+     font: 500 1vmax "Roboto";
+     padding: 0.5vmax 2vmax;
+     margin: 1vmax;
+     outline: none;
+     box-shadow: 0.1rem 0.2rem rgba(128, 128, 128, 0.422);
+}
+.btn2{
+     border: none;
+     cursor: pointer;
+     color: white;
+     transition: all 0.5s;
+     background-color: rgba(0, 208, 255, 0.276);
+     color: green;
+     font: 500 1vmax "Roboto";
+     padding: 0.5vmax 2vmax;
+     margin: 1vmax;
+     outline: none; 
+     box-shadow: 0.1rem 0.2rem rgba(128, 128, 128, 0.422);
+}
+.home_mid_4{
+     display: flex;
+     padding: 1rem 0;
+}
+.home_mid_4 > div{
+     display: flex;
+     align-items: center;
+     padding-right: 1rem;
+}
+.home_mid_4 > div > svg{
+     font-size: 1.2rem;
+}
+.home_mid_4 > div > p{
+     font-size: 0.6rem;
+     font-weight: 400;
+     color: rgb(105, 103, 103);
+     padding-left: 0.5rem;
+}
+.home_lower_mid{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.image2{
+     flex: 0.5;
+     height: 30rem;
+     width: 30rem;
+     /* margin-right: 5rem; */
+}
+.home_lower_mid > div{
+     flex: 0.5;
+     margin-right: 6rem;
+     margin-left: 5rem;
+}
+.home_lower_mid > div > div{
+     height: 0.5rem;
+     width: 5rem;
+     background-color: green;
+     border-radius: 20rem;
+     margin-bottom: 1rem;
+     margin-top: 0.5rem;
+}
+.home_lower_mid > div > p{
+     font-size: 0.8rem;
+     padding: 0.5rem 0;
+     color: rgb(80, 80, 80);
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn3{
+     border: none;
+     cursor: pointer;
+     color: white;
+     transition: all 0.5s;
+     background-color: green;
+     font: 500 1vmax "Roboto";
+     width: 11rem;
+     padding: 0.5rem 0;
+     margin-top: 1rem;
+     outline: none;
+}
+
+.home_lower{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin: 3rem 0rem;
+}
+.home_lower> div > div{
+     height: 0.5rem;
+     width: 15.5rem;
+     background-color: green;
+     border-radius: 20rem;
+     margin-bottom: 1rem;
+     margin-top: 0.5rem;
+}
+.image3{
+     flex: 0.5;
+     height: 30rem;
+     width: 40rem;
+     margin-right: 5rem;
+}
+.home_lower > div{
+     flex: 0.5;
+     margin-right: 10rem;
+     margin-left: 5rem;
+}
+.home_lower > div > p{
+     font-size: 0.8rem;
+     padding: 0.5rem 0;
+     color: rgb(80, 80, 80);
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

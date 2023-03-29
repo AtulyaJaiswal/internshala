@@ -1,0 +1,39 @@
+.navbar{
+     display: flex;
+     background-color: black;
+     justify-content: space-around;
+     color: white;
+     padding: 0.4rem 10rem;
+}
+
+.navbar > p{
+     font-size: 0.8rem;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navbar > p:hover{
+     cursor: pointer;
+     color: yellow;
+}
+.hovering{
+     display: none;
+     position: absolute;
+     background-color: rgb(217, 214, 214);
+     width: 100%;
+     height: 9rem;
+     top: 1.7rem;
+     left: 0;
+}
+.navbar > p:hover .hovering{
+     display: flex;
+     justify-content: center;
+}
+.navbar > p:hover .hovering > ul{
+     list-style: none;
+     margin: 1rem;
+}
+.navbar > p:hover .hovering > ul > li{
+     font-size: 0.8rem;
+     font-weight: 700;
+     color: black;
+     padding: 0.4rem;
+}

@@ -1,0 +1,204 @@
+.benefits{
+     display: flex;
+     flex-direction: column;
+}
+.benefits_heading{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     padding: 2rem;
+}
+.benefits_heading > p{
+     font-size: 1.3rem;
+     font-weight: 700;
+     color: rgb(2, 2, 126);
+}
+
+.benefits_mid1{
+     display: flex;
+     background-color: rgba(249, 247, 247, 0.874);
+}
+.benefits_mid1 > img{
+     flex: 0.4;
+     height: 25rem;
+     width: rem;
+}
+.benefits_mid1 > div{
+     flex: 0.6;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+}
+.benefits_mid1 > div > div > ul{
+     font-size: 1.5rem;
+     font-weight: 600;
+     color: rgb(2, 2, 126);
+}
+.benefits_mid1 > div > button{
+     border: none;
+     cursor: pointer;
+     color: white;
+     transition: all 0.5s;
+     background-color: black;
+     font: 500 1vmax "Roboto";
+     padding: 0.5vmax 2vmax;
+     margin: 4vmax;
+     width: 33%;
+     outline: none;
+}
+
+.benefits_mid2{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin: 4rem;
+}
+.benefits_mid2 > img{
+     cursor: pointer;
+     width: 40rem;
+     height: 20rem;
+}
+
+.benefits_mid3{
+     display: flex;
+     background-color: rgba(249, 247, 247, 0.874)
+}
+.benefits_mid3 > img{
+     flex: 0.4;
+     height: 25rem;
+     width: 35rem;
+}
+.benefits_mid3 > div{
+     flex: 0.6;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+}
+.benefits_mid3 > div > div > ul{
+     font-size: 0.8rem;
+     font-weight: 500;
+     color: rgb(2, 2, 126);
+}
+.benefits_mid3 > div > div > ul > li{
+     padding: 0.3rem;
+}
+.benefits_mid3 > div > p{
+     font-size: 1.3rem;
+     font-weight: 500;
+     color: rgb(2, 2, 126);
+     margin-left: 7rem;
+     margin-bottom: 1rem;
+     margin-top: 2rem;
+}
+.benefits_mid3 > div > button{
+     border: none;
+     cursor: pointer;
+     color: white;
+     transition: all 0.5s;
+     background-color: black;
+     font: 500 1vmax "Roboto";
+     padding: 0.5vmax 2vmax;
+     margin-top: 1rem;
+     width: 45%;
+     outline: none;
+}
+
+.benefits_mid4{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     /* margin-right: 4rem; */
+}
+.benefits_mid4 > p{
+     font-size: 2rem;
+     color: black;
+     font-weight: 700;
+     margin-right: 20rem;
+}
+.benefits_mid4 > p > span{
+     margin-left: 6.5rem;
+}
+.benefits_mid4 > div{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     margin-left: 18rem;
+     margin-right: 15rem;
+     margin-top: 4rem;
+}
+
+.benefitCard{
+     display: flex;
+     flex-direction: column;
+     width: 28%;
+     margin-bottom: 2rem;
+     margin-right: 2rem  ;
+}
+.benefitCard > div{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: green;
+     width: 1.5rem;
+     color: white;
+     border-radius: 0.5rem;
+     padding: 0.5rem;
+}
+.benefitCard > h4{
+     font-size: 1rem;
+     font-weight: 600;
+     padding: 0.8rem 0;
+}
+.benefitCard > p{
+     font-size: 0.8rem;
+     font-weight: 500;
+     color: rgb(66, 65, 65);
+}
+
+.benefits_mid5{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     margin: 2rem 0;
+}
+.benefits_mid5 > p{
+     font-size: 2rem;
+     font-weight: 700;
+     color: black;
+}
+.benefits_mid5 > div{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     margin-left: 15rem;
+     margin-right: 15rem;
+     margin-top: 2rem;
+}
+.reasonCard{
+     width: 29%;
+     display: flex;
+     justify-content: center;
+     margin: 1rem 1rem;
+     /* align-items: center; */
+}
+.reasonCard > button{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     border-radius: 1rem;
+     padding: 1rem;
+     font-size: 1rem;
+     margin-right: 0.5rem;
+     box-shadow: 0.01rem 0.01rem 0.01rem 0.01rem gray;
+     border: none;
+}
+.reasonCard > div > p{
+     font-size: 0.8rem;
+     margin-right: 2rem;
+     font-weight: 500;
+}
